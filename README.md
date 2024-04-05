@@ -2,7 +2,7 @@
 This repository provides code for command line MSFragger 2-stage searches (GUI is highly recommended).
 
 ### Table of Contents: 
-- [MSFragger command line pipelines for 2-stage searches](https://github.com/hdesai17/2-stage_fragpipe#msfragger-command-line-2-stage-search)
+- MSFragger command line pipelines for 2-stage searches
 
 The [FragPipe GUI](https://github.com/Nesvilab/FragPipe) is now compatible with 2-stage searches. \
 Instructions on running 2-stage searches with the GUI are located here https://fragpipe.nesvilab.org/docs/tutorial_two_pass_search.html and in bioXiv manuscript: [Multi-omic stratification of the missense variant cysteinome](https://doi.org/10.1101/2023.08.12.553095) in supplementary information.
