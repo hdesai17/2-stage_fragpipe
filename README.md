@@ -1,5 +1,6 @@
 # 2-stage FDR searches with FragPipe 
-This repository provides code for command line MSFragger 2-stage searches are also provided (GUI is highly recommended).
+This repository provides code for command line MSFragger 2-stage searches (GUI is highly recommended).
+
 ### Table of Contents: 
 - [MSFragger command line pipelines for 2-stage searches](https://github.com/hdesai17/chemoproteogenomics#msfragger-command-line-2-stage-search)
 
