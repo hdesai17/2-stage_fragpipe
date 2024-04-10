@@ -6,6 +6,7 @@ The [FragPipe GUI](https://github.com/Nesvilab/FragPipe) and/or headless mode is
 Instructions on running 2-stage searches with the GUI are located here https://fragpipe.nesvilab.org/docs/tutorial_two_pass_search.html \
 and in bioXiv manuscript: [Multi-omic stratification of the missense variant cysteinome](https://doi.org/10.1101/2023.08.12.553095) in supplementary information.
 
+
 ![Model](scheme_2.png)
 
 ## MSFragger command-line 2-stage search
