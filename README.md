@@ -11,7 +11,7 @@ and in bioXiv manuscript: [Multi-omic stratification of the missense variant cys
 ## MSFragger command-line 2-stage search
 >[!IMPORTANT]
 >:exclamation:
->_The updated GUI is recommended over command-line scripts provided here._ 
+>_The updated GUI or FragPipe headless mode is recommended over command-line scripts provided here._ 
 
 Process .raw MS files with an MSFragger pipeline using Philospher and Peptide Prophet for post-processing with optional IonQuant quantitation. 
 
